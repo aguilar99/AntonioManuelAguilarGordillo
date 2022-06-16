@@ -1,5 +1,5 @@
 # AntonioManuelAguilarGordillo
 
-Práctica GitHub
+Práctica Git y GitHub
 
-Antronio Manuel Aguilar Gordillo
+## Colaborador: Antronio Manuel Aguilar Gordillo
